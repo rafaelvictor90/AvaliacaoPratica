@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AvaliacaoPratica.Application/1.0.0": {
+        "dependencies": {
+          "AvaliacaoPratica.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AvaliacaoPratica.Application.dll": {}
+        }
+      },
+      "AvaliacaoPratica.Domain/1.0.0": {
+        "runtime": {
+          "AvaliacaoPratica.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AvaliacaoPratica.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AvaliacaoPratica.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

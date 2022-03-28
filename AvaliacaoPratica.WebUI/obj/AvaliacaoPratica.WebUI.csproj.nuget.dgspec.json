@@ -1,0 +1,368 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.WebUI\\AvaliacaoPratica.WebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Application\\AvaliacaoPratica.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Application\\AvaliacaoPratica.Application.csproj",
+        "projectName": "AvaliacaoPratica.Application",
+        "projectPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Application\\AvaliacaoPratica.Application.csproj",
+        "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Domain\\AvaliacaoPratica.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Domain\\AvaliacaoPratica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Domain\\AvaliacaoPratica.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Domain\\AvaliacaoPratica.Domain.csproj",
+        "projectName": "AvaliacaoPratica.Domain",
+        "projectPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Domain\\AvaliacaoPratica.Domain.csproj",
+        "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.Data\\AvaliacaoPratica.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.Data\\AvaliacaoPratica.Infra.Data.csproj",
+        "projectName": "AvaliacaoPratica.Infra.Data",
+        "projectPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.Data\\AvaliacaoPratica.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Domain\\AvaliacaoPratica.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Domain\\AvaliacaoPratica.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.IoC\\AvaliacaoPratica.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.IoC\\AvaliacaoPratica.Infra.IoC.csproj",
+        "projectName": "AvaliacaoPratica.Infra.IoC",
+        "projectPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.IoC\\AvaliacaoPratica.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Application\\AvaliacaoPratica.Application.csproj": {
+                "projectPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Application\\AvaliacaoPratica.Application.csproj"
+              },
+              "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Domain\\AvaliacaoPratica.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Domain\\AvaliacaoPratica.Domain.csproj"
+              },
+              "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.Data\\AvaliacaoPratica.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.Data\\AvaliacaoPratica.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.WebUI\\AvaliacaoPratica.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.WebUI\\AvaliacaoPratica.WebUI.csproj",
+        "projectName": "AvaliacaoPratica.WebUI",
+        "projectPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.WebUI\\AvaliacaoPratica.WebUI.csproj",
+        "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.IoC\\AvaliacaoPratica.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Infra.IoC\\AvaliacaoPratica.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

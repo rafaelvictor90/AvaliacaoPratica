@@ -1,0 +1,77 @@
+﻿@model AvaliacaoPratica.Application.DTOs.ProprietarioDTO
+
+@{
+   List<SelectListItem> listItems= new List<SelectListItem>();
+   listItems.Add(new SelectListItem
+        {
+          Text = "Ativar",
+          Value = "true"
+        });
+   listItems.Add(new SelectListItem
+        {
+            Text = "Cancelar",
+            Value = "false"
+        });
+}
+
+@{
+    ViewData["Title"] = "Editar Proprietário";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" method="post">
+    <div class="form-horizontal">
+        <hr />
+        <div asp-validation-summary="All" class="text-danger"></div>
+        
+        <div class="form-group">
+            <label asp-for="Id" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Id" class="form-control" readonly/>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Nome" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Nome" class="form-control" readonly/>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="Documento" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Documento" class="form-control" readonly/>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="Email" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Email" class="form-control" readonly/>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="Cep" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Cep" class="form-control" readonly/>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="Status" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.Status, listItems)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Salvar" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-info">Voltar</a>
+            </div>
+        </div>
+    </div>
+</form>

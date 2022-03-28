@@ -1,0 +1,17 @@
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\bin\Debug\net6.0\AvaliacaoPratica.Infra.Data.deps.json
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\bin\Debug\net6.0\AvaliacaoPratica.Infra.Data.runtimeconfig.json
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\bin\Debug\net6.0\AvaliacaoPratica.Infra.Data.dll
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\bin\Debug\net6.0\AvaliacaoPratica.Infra.Data.pdb
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\bin\Debug\net6.0\AvaliacaoPratica.Domain.dll
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\bin\Debug\net6.0\AvaliacaoPratica.Domain.pdb
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\obj\Debug\net6.0\AvaliacaoPratica.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\obj\Debug\net6.0\AvaliacaoPratica.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\obj\Debug\net6.0\AvaliacaoPratica.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\obj\Debug\net6.0\AvaliacaoPratica.Infra.Data.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\obj\Debug\net6.0\AvaliacaoPratica.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\obj\Debug\net6.0\AvaliacaoPratica.Infra.Data.csproj.CopyComplete
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\obj\Debug\net6.0\AvaliacaoPratica.Infra.Data.dll
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\obj\Debug\net6.0\refint\AvaliacaoPratica.Infra.Data.dll
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\obj\Debug\net6.0\AvaliacaoPratica.Infra.Data.pdb
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\obj\Debug\net6.0\AvaliacaoPratica.Infra.Data.genruntimeconfig.cache
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Infra.Data\obj\Debug\net6.0\ref\AvaliacaoPratica.Infra.Data.dll

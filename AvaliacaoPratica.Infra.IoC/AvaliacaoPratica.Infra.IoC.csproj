@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AvaliacaoPratica.Application\AvaliacaoPratica.Application.csproj" />
+    <ProjectReference Include="..\AvaliacaoPratica.Domain\AvaliacaoPratica.Domain.csproj" />
+    <ProjectReference Include="..\AvaliacaoPratica.Infra.Data\AvaliacaoPratica.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

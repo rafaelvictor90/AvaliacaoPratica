@@ -1,0 +1,12 @@
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\bin\Debug\net6.0\AvaliacaoPratica.Domain.deps.json
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\bin\Debug\net6.0\AvaliacaoPratica.Domain.dll
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\bin\Debug\net6.0\AvaliacaoPratica.Domain.pdb
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\obj\Debug\net6.0\AvaliacaoPratica.Domain.csproj.AssemblyReference.cache
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\obj\Debug\net6.0\AvaliacaoPratica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\obj\Debug\net6.0\AvaliacaoPratica.Domain.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\obj\Debug\net6.0\AvaliacaoPratica.Domain.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\obj\Debug\net6.0\AvaliacaoPratica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\obj\Debug\net6.0\AvaliacaoPratica.Domain.dll
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\obj\Debug\net6.0\refint\AvaliacaoPratica.Domain.dll
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\obj\Debug\net6.0\AvaliacaoPratica.Domain.pdb
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Domain\obj\Debug\net6.0\ref\AvaliacaoPratica.Domain.dll

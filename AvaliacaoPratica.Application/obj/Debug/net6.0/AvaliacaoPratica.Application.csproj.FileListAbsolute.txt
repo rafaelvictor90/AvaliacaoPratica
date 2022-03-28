@@ -1,0 +1,15 @@
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\bin\Debug\net6.0\AvaliacaoPratica.Application.deps.json
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\bin\Debug\net6.0\AvaliacaoPratica.Application.dll
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\bin\Debug\net6.0\AvaliacaoPratica.Application.pdb
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\bin\Debug\net6.0\AvaliacaoPratica.Domain.dll
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\bin\Debug\net6.0\AvaliacaoPratica.Domain.pdb
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\obj\Debug\net6.0\AvaliacaoPratica.Application.csproj.AssemblyReference.cache
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\obj\Debug\net6.0\AvaliacaoPratica.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\obj\Debug\net6.0\AvaliacaoPratica.Application.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\obj\Debug\net6.0\AvaliacaoPratica.Application.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\obj\Debug\net6.0\AvaliacaoPratica.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\obj\Debug\net6.0\AvaliacaoPratica.Application.csproj.CopyComplete
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\obj\Debug\net6.0\AvaliacaoPratica.Application.dll
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\obj\Debug\net6.0\refint\AvaliacaoPratica.Application.dll
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\obj\Debug\net6.0\AvaliacaoPratica.Application.pdb
+C:\Users\Rafa\Desktop\TesteDotNet\AvaliacaoPratica\AvaliacaoPratica\AvaliacaoPratica.Application\obj\Debug\net6.0\ref\AvaliacaoPratica.Application.dll

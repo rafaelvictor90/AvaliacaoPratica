@@ -1,0 +1,119 @@
+﻿@model AvaliacaoPratica.Application.DTOs.VeiculoDTO
+
+@{
+    List<SelectListItem> marcasList = new List<SelectListItem>();
+    if(ViewBag.MarcasList != null)
+    {
+        foreach (var item in ViewBag.MarcasList)
+        {
+            //if(item.Status)
+            //{
+                marcasList.Add(new SelectListItem
+                {
+                    Text = item.Nome,
+                    Value = item.Id.ToString()
+                });                
+            //}
+        }        
+    }
+
+    List<SelectListItem> proprietariosList = new List<SelectListItem>();
+    if(ViewBag.ProprietariosList != null)
+    {
+        foreach (var item in ViewBag.ProprietariosList)
+        {
+            //if (item.Status)
+            //{
+                proprietariosList.Add(new SelectListItem
+                        {
+                            Text = item.Nome,
+                            Value = item.Id.ToString()
+                        });
+            //}
+        }        
+    }
+}
+
+@{
+    ViewData["Title"] = "Novo Veiculo";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-horizontal">
+        <hr />
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <div class="form-group">
+            <label asp-for="Renavam" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Renavam" class="form-control" />
+                <span asp-validation-for="Renavam" class="text-danger"></span>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="Modelo" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Modelo" class="form-control" />
+                <span asp-validation-for="Modelo" class="text-danger"></span>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label asp-for="AnoFabricacao" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="AnoFabricacao" class="form-control" maxlength="4" />
+                <span asp-validation-for="AnoFabricacao" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="AnoModelo" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="AnoModelo" class="form-control" maxlength="4" />
+                <span asp-validation-for="AnoModelo" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Quilometragem" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Quilometragem" class="form-control" />
+                <span asp-validation-for="Quilometragem" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Valor" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Valor" class="form-control" />
+                <span asp-validation-for="Valor" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="MarcaId" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.MarcaId, marcasList)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ProprietarioId" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.ProprietarioId, proprietariosList)
+            </div>
+        </div>
+        
+        <input asp-for="StatusId" class="form-control" value="1" hidden/>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Salvar" class="btn btn-success" />
+                <a asp-action="Index" class="btn btn-info">Voltar</a>
+            </div>
+        </div>
+    </div>
+</form>

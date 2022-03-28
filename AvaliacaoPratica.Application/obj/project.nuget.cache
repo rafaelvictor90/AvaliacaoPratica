@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nJ88o3nk9OwztLPybqf6eoO4nbs8RpuTlEIdc+ul9pxqFxVUSUKv2lmKQc+S9uYkew/i8WF9u/aHN4ZB7Luolw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafa\\Desktop\\TesteDotNet\\AvaliacaoPratica\\AvaliacaoPratica\\AvaliacaoPratica.Application\\AvaliacaoPratica.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafa\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Rafa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
